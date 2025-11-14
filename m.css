@@ -1,5 +1,5 @@
 * {
-    background-color: black;
+    background-color: rgb(47, 215, 17);
 }
 
 h1 {
@@ -8,3 +8,15 @@ h1 {
      text-align: center;
      margin-top: 255px;
 }
+
+h2 {
+     color: white;
+     font-size: 50px;
+     text-align: center;
+     margin-top: 5px;
+}
+
+
+
+
+
