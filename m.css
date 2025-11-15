@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(47, 215, 17);
+    background-color: rgb(202, 215, 17);
 }
 
 h1 {
@@ -17,10 +17,13 @@ h2 {
 }
 
 
-div {
+div { 
+      border: 2px solid white; 
+      justify-content: center;
       background-color: black;
       height: 100px;
       width: 100px;
+      color: aliceblue;
 }
 
 
