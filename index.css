@@ -1,5 +1,5 @@
 * {
-    background-color: pink;
+    background-color: rgb(8, 19, 226);
 
 }
 
@@ -17,12 +17,20 @@ h2 {
      margin-top: 5px;
 }
 
+.ok { 
+      height: 600px;
+      width: 600px;
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      background-color: brown;
+}
+
 div { 
       border: 2px solid white; 
       justify-content: center;
-      background-color: rgb(197, 237, 21);
+      background-color: pink;
       height: 100px;
       width: 100px;
       color: aliceblue;
 }
-
